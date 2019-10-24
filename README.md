@@ -24,7 +24,7 @@ Grand Project to "robotize" the island of Jamaica.
 
 
 # VOLUNTEER AT ROBOTIZE_JA
-Please send your resume to robotizeja@gmail.com, if you do artificial intelligence development, including data science etc.
+Please send your resume to robotizeja@gmail.com/Robotize Jamaica (or robotizeearth@gmail.com "Robotize Earth"), if you do artificial intelligence development, including data science etc.
 
 # LIST OF AIDED INSTITUIONS 
 
