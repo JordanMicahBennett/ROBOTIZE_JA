@@ -1,5 +1,5 @@
 
-![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/data/email_marketing_style_01.png)
+![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/data/email_marketing_style_0s1.png)
 
 # ROBOTIZE_JA 
 Grand Project to "robotize" the island of Jamaica.
