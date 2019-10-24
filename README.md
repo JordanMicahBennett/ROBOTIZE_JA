@@ -34,3 +34,5 @@ Please send your resume to robotizeja@gmail.com/Robotize Jamaica (or robotizeear
 This is a part of an even grander plan, to help **robotize the planet**!
 
 
+# ROBOTIZE_JA AUTHOR
+[Jordan Bennett, Software Developer @ NCB](https://www.linkedin.com/in/programminggodjordan/)
