@@ -19,7 +19,7 @@ Grand Project to "robotize" the island of Jamaica.
         
 * Somewhat inexpensive laptops will be left on the premises of the institutions I aid using my finances (for running trained ai models), while I will use my somewhat expensive desktop to train said Ai models.
 
-# A SUBSIDIARY OF MACHINE LEARNING JAMAICA INSTITUTE PROJECT
+# ROBOTIZE_JA IS A SUBSIDIARY OF MACHINE LEARNING JAMAICA INSTITUTE PROJECT
 1. [MLJI Website](http://mlj-institute.rf.gd/)
 
 2. [MLJI Curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/README.md)
