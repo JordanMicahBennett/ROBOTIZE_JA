@@ -17,7 +17,7 @@ Grand Project to "robotize" the island of Jamaica.
         * [Smart Pothole Detector using fp16 convolutional neural networks](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano)
         * [Arrythmia detection in browser using convolutional neural networks](https://github.com/JordanMicahBennett/Browser-Ai-Arrhythmia-Detection)
         
-* Somewhat inexpensive laptops will be left on the premises of the institutions I aid on my account (for running trained ai models), while I will use my expensive desktop to train said Ai models.
+* Somewhat inexpensive laptops will be left on the premises of the institutions I aid using my finances (for running trained ai models), while I will use my somewhat expensive desktop to train said Ai models.
 
 # A SUBSIDIARY OF MACHINE LEARNING JAMAICA INSTITUTE PROJECT
 1. [MLJI Website](http://mlj-institute.rf.gd/)
