@@ -6,7 +6,7 @@ Grand Project to "robotize" the island of Jamaica.
 
 * This is of course limited only by the amount of time I have away from work, my knowledge/capacity in artificial intelligence, and lastly finances to begin. 
 
-* Somewhat inexpensive laptops will be left on the premises of the institions I aid on my account (for running trained ai models), while I will use my expensive desktop to train said Ai models.
+* Somewhat inexpensive laptops will be left on the premises of the institutions I aid on my account (for running trained ai models), while I will use my expensive desktop to train said Ai models.
 
 # A SUBSIDIARY OF MACHINE LEARNING JAMAICA INSTITUTE PROJECT
 1. [MLJI Website](http://mlj-institute.rf.gd/)
