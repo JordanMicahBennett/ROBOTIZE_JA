@@ -1,3 +1,6 @@
+
+![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/data/email_marketing_style_01.png)
+
 # ROBOTIZE_JA 
 Grand Project to "robotize" the island of Jamaica.
 
@@ -20,6 +23,11 @@ Grand Project to "robotize" the island of Jamaica.
 2. [MLJI Curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/README.md)
 
 
+# VOLUNTEER AT ROBOTIZE_JA
+Please send your resume to robotizeja@gmail.com, if you do artificial intelligence development, including data science etc.
+
 # LIST OF AIDED INSTITUIONS 
 
 --
+
+
