@@ -5,7 +5,9 @@ Grand Project to "robotize" the island of Jamaica.
 * In the aim of spreading Ai usage, I travel across the country in order to apply Ai for free (Tier A) for several institution types. 
 
 * This is ofcourse limited only by the amount of time I have away from work, my reasonably good albeit growing knowledge/capacity in artificial intelligence, and lastly finances to begin. 
-*    test
+    * Some of my Ai Projects:
+        * Machine Learning Jamaica Institute (as seen in the subsidiary section at end of page)
+        * [Heart Irregularity Detection using convolutional residual neural networks](https://github.com/JordanMicahBennett/EJECTION-FRACTION-IRREGULARITY-DETECTION-MODEL)
 
 * Somewhat inexpensive laptops will be left on the premises of the institutions I aid on my account (for running trained ai models), while I will use my expensive desktop to train said Ai models.
 
