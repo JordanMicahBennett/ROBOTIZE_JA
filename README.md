@@ -4,7 +4,7 @@ Grand Project to "robotize" the island of Jamaica.
 # GOAL
 * In the aim of spreading Ai usage, I travel across the country in order to apply Ai for free (Tier A) for several institution types. 
 
-* This is of course limited only by the amount of time I have away from work, my knowledge/capacity in artificial intelligence, and lastly finances to begin. 
+* This is ofcourse limited only by the amount of time I have away from work, my reasonably good albeit growing knowledge/capacity in artificial intelligence, and lastly finances to begin. 
 
 * Somewhat inexpensive laptops will be left on the premises of the institutions I aid on my account (for running trained ai models), while I will use my expensive desktop to train said Ai models.
 
