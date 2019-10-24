@@ -7,7 +7,7 @@ Note: Logo designed using [this Artificial Intelligence based online platform](h
 Grand Project to "robotize" the island of Jamaica.
 
 # GOAL
-* In the aim of spreading Ai usage, I travel across the country in order to apply Ai for free (Tier A) for several institution types. 
+* In the aim of spreading Ai usage together with [Ai democratization](https://www.bmc.com/blogs/democratization-of-ai/), I travel across the country in order to apply Ai for free (Tier A) for several institution types. 
 
 * This is ofcourse limited only by the amount of time I have away from work, my reasonably good albeit growing knowledge/capacity in artificial intelligence, and lastly finances to begin. 
     * Artificial Intelligence Projects of mine/knowledge base:
