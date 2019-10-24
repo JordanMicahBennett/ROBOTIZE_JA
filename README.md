@@ -1,7 +1,7 @@
 
-![Alt Text](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/data/Jamaica%20Unseen%20Natural%20Beauty%20_short.gif)
+![Alt Text](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/data/logo.png)
 
-Note: Clip taken from [this youtube video](https://www.youtube.com/watch?v=JbaM9xlfLOE).
+Note: Logo designed using [this Artificial Intelligence based online platform](https://looka.com/).
 
 # ROBOTIZE_JA 
 Grand Project to "robotize" the island of Jamaica.
