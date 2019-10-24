@@ -18,3 +18,8 @@ Grand Project to "robotize" the island of Jamaica.
 1. [MLJI Website](http://mlj-institute.rf.gd/)
 
 2. [MLJI Curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/README.md)
+
+
+# LIST OF AIDED INSTITUIONS 
+
+--
