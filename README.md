@@ -1,5 +1,6 @@
 
 ![Alt Text](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/data/Jamaica%20Unseen%20Natural%20Beauty%20_short.gif)
+
 Note: Clip taken from [this youtube video](https://www.youtube.com/watch?v=JbaM9xlfLOE).
 
 # ROBOTIZE_JA 
