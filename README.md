@@ -1,7 +1,7 @@
 
 ![Alt Text](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/data/logo.png)
 
-Note: Logo designed using [this Artificial Intelligence based online platform](https://looka.com/).
+Note: Logo designed using [this Artificial Intelligence based online platform](https://looka.com/). After years of use, it seems quite reliable.
 
 # ROBOTIZE_JA 
 Grand Project to "robotize" the island of Jamaica.
