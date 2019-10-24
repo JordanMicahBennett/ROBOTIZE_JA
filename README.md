@@ -38,3 +38,7 @@ This is a part of an even grander plan, to help **robotize the planet**!
 
 # ROBOTIZE_JA AUTHOR
 [Jordan Bennett](https://www.linkedin.com/in/programminggodjordan/), Software Developer at [National Commercial Bank](https://www.jncb.com/).
+
+facebook.com/robotizeja/
+
+twitter.com/robotizeja/
