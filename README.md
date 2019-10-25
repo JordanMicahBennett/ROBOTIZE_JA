@@ -15,7 +15,7 @@ Grand Project to "robotize" the island of Jamaica.
 # GOAL
 * In the aim of spreading Ai usage together with [Ai democratization](https://www.bmc.com/blogs/democratization-of-ai/), I travel across the country in order to apply Ai for free (Tier A) for several institution types. 
 
-* This is ofcourse limited only by the amount of time I have away from work, my reasonably good albeit growing knowledge/capacity in artificial intelligence, and lastly my personal finances to begin. 
+* This is of course limited only by the amount of time I have away from work, my reasonably good albeit growing knowledge/capacity in artificial intelligence, and lastly my personal finances to begin. 
     * Artificial Intelligence Projects of mine/knowledge base:
         * Machine Learning Jamaica Institute (as seen in the subsidiary section at end of page)
         * [Heart Irregularity Detection using convolutional residual neural networks](https://github.com/JordanMicahBennett/EJECTION-FRACTION-IRREGULARITY-DETECTION-MODEL)
