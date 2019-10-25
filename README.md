@@ -23,7 +23,7 @@ Grand Project to "robotize" the island of Jamaica.
         * [Arrhythmia detection in browser using convolutional neural networks](https://github.com/JordanMicahBennett/Browser-Ai-Arrhythmia-Detection)
         * [Live ITS 2019 Neural Network Programming Tutorial](https://github.com/JordanMicahBennett/Live-ITS-2019-Artificial-Neural-Network-Tutorial-Code)
         * [Artificial Neural Networks for kids - Amazon book](https://www.amazon.com/Artificial-Neural-Networks-Kids-intuitive-ebook/dp/B077FX57ZZ) ..which is [free on ResearchGate](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids)
-        * [Supersymmetric Artificial Neural Network - This is a Machine Learning Theory](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network)
+        * [Supersymmetric Artificial Neural Network - This is Machine Learning Theory](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network)
         * [Fundamental neural network programming practice](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE) 
         
 * Somewhat inexpensive laptops (bought using my personal finances) will be left on the premises of the institutions for their usage (for running "trained" ai models), while I will use my somewhat expensive desktop to "train" said Ai models.
