@@ -26,7 +26,7 @@ Grand Project to "robotize" the island of Jamaica.
         * [Supersymmetric Artificial Neural Network - This is Machine Learning Theory](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network)
         * [Fundamental neural network programming practice](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE) 
         
-* Somewhat inexpensive laptops (bought using my personal finances) will be left on the premises of the institutions for their usage (for running "trained" ai models), while I will use my somewhat expensive desktop to "train" said Ai models.
+* Somewhat inexpensive laptops (bought using my personal finances) will be left on the premises of the institutions for their usage (for running "trained" ai models), while I will use my somewhat expensive desktop to "train" said Ai models where applicable.
 
 
 
