@@ -3,13 +3,19 @@
 
 Note: Logo designed using [this Artificial Intelligence based online platform](https://looka.com/). After years of use, it seems quite reliable. (This logo took about 3 minutes to design using the platform :))
 
+
+
+
 # ROBOTIZE_JA 
 Grand Project to "robotize" the island of Jamaica.
+
+
+
 
 # GOAL
 * In the aim of spreading Ai usage together with [Ai democratization](https://www.bmc.com/blogs/democratization-of-ai/), I travel across the country in order to apply Ai for free (Tier A) for several institution types. 
 
-* This is ofcourse limited only by the amount of time I have away from work, my reasonably good albeit growing knowledge/capacity in artificial intelligence, and lastly finances to begin. 
+* This is ofcourse limited only by the amount of time I have away from work, my reasonably good albeit growing knowledge/capacity in artificial intelligence, and lastly my personal finances to begin. 
     * Artificial Intelligence Projects of mine/knowledge base:
         * Machine Learning Jamaica Institute (as seen in the subsidiary section at end of page)
         * [Heart Irregularity Detection using convolutional residual neural networks](https://github.com/JordanMicahBennett/EJECTION-FRACTION-IRREGULARITY-DETECTION-MODEL)
@@ -25,19 +31,30 @@ Grand Project to "robotize" the island of Jamaica.
 2. [MLJI Curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/README.md)
 
 
+
+
 # VOLUNTEER AT ROBOTIZE_JA
 Please send your resume to robotizeja@gmail.com/Robotize Jamaica (or robotizeearth@gmail.com "Robotize Earth"), if you do artificial intelligence development, including data science etc.
+
+
 
 # LIST OF AIDED INSTITUIONS 
 
 --
 
+
+
 # ENDGAME
 This is a part of an even grander plan, to help **robotize the planet**!
+![Alt Text](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/data/logo_earth.png)
+
 
 
 # ROBOTIZE_JA AUTHOR
 [Jordan Bennett](https://www.linkedin.com/in/programminggodjordan/), Software Developer at [National Commercial Bank](https://www.jncb.com/).
+
+
+
 
 # SOCIALS 
 [facebook.com/robotizeja/](https://www.facebook.com/robotizeja/)
