@@ -51,7 +51,7 @@ Please send your resume to robotizeja@gmail.com/Robotize Jamaica (or robotizeear
 
 
 # ENDGAME
-This is a part of an even grander plan, to help **robotize the planet**!
+This is a part of an even grander plan, to help **[robotize the planet](https://www.facebook.com/robotizeearth/)**!
 ![Alt Text](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/data/logo_earth.png)
 
 
