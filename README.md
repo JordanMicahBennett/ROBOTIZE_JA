@@ -21,6 +21,7 @@ Grand Project to "robotize" the island of Jamaica.
         * [Heart Irregularity Detection using convolutional residual neural networks](https://github.com/JordanMicahBennett/EJECTION-FRACTION-IRREGULARITY-DETECTION-MODEL)
         * [Smart Pothole Detector using fp16 convolutional neural networks](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano)
         * [Arrhythmia detection in browser using convolutional neural networks](https://github.com/JordanMicahBennett/Browser-Ai-Arrhythmia-Detection)
+        * [Jetson nano neural computer programming](https://github.com/JordanMicahBennett/live_ai_object-detection-on-tiny-jetson-neural-nano-computer)
         * [Live ITS 2019 Neural Network Programming Tutorial](https://github.com/JordanMicahBennett/Live-ITS-2019-Artificial-Neural-Network-Tutorial-Code)
         * [Artificial Neural Networks for kids - Amazon book](https://www.amazon.com/Artificial-Neural-Networks-Kids-intuitive-ebook/dp/B077FX57ZZ) ..which is [free on ResearchGate](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids)
         * [Supersymmetric Artificial Neural Network - This is Machine Learning Theory](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network)
