@@ -46,6 +46,11 @@ Please send your resume to robotizeja@gmail.com/Robotize Jamaica (or robotizeear
 If you are not able to help "RobotizeJa", at least try to help "Robotize{AnotherCountryName}" were applicable!
 
 
+# APPLY FOR FREE ARTIFICIAL INTELLIGENCE DEVELOPMENT FOR YOUR INSTITUTION BY ROBOTIZE_JA
+Let's talk about how Ai can benefit/enhance your insitution's pipeline. Contact the emails above, or 876-547-0790.
+
+
+
 
 # LIST OF AIDED INSTITUIONS 
 
