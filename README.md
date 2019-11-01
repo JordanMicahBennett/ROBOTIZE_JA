@@ -47,7 +47,7 @@ If you are not able to help "RobotizeJa", at least try to help "Robotize{Another
 
 
 # APPLY FOR FREE ARTIFICIAL INTELLIGENCE DEVELOPMENT FOR YOUR INSTITUTION BY ROBOTIZE_JA
-Let's talk about how Ai can benefit/enhance your insitution's pipeline. Contact the emails above, or 876-547-0790.
+Let's talk about how Ai can benefit/enhance your institution's pipeline. Contact the emails above, or 876-547-0790.
 
 
 
