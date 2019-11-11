@@ -29,7 +29,7 @@ How long before Jamaican companies become aware of these cheaper-than-human auto
 
 Conclusion
 =========================
-America has corporations like Amazon to tax when it comes to automation by large companies.
+America has [trillion dollar corporations like Amazon](https://www.nytimes.com/2018/09/04/technology/amazon-stock-price-1-trillion-value.html#:~:targetText=Now%20Amazon%20has%20become%20the,below%20the%20%241%20trillion%20threshold.) that can be [taxed when it comes to automation.](https://www.cnbc.com/2019/04/03/why-amazon-paid-no-federal-income-tax.html#:~:targetText=In%202018%2C%20Amazon%20paid%20%240,rebate%20from%20the%20federal%20government.).
 
 Notably, the effects of automation are not constrained to America!!
 
