@@ -51,8 +51,9 @@ Since Jamaica has no Amazon-like place or large Artificial Intelligence aligned 
 1. Introduce modern Artificial Intelligence in our university Computer Science degrees. Foreign countries have excellent modern Artificial Intelligence courses embedded in their Computer Science degrees.
    * [As I wrote in gleaner in 2018](http://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could), I advised UWI Artificial Intelligence lecturer to do this in 2016, and the lecturer is slowly introducing neural networks for eg since then.
 
-2. Try to equip our medium sized businesses (that have hired programmers) with more Artificial Intelligence aligned components, including building Artificial Intelligence skills in human resources.
-
+2. Try to equip our medium sized businesses (that have hired programmers) with more Artificial Intelligence aligned components, including building Artificial Intelligence skills in human resources. 
+   * I had already began running Ai seminars with live artificial neural network programming sessions, at [NCB where I work](https://www.jncb.com/).
+   
 3. Try to build independent institutions for Artificial Intelligence. (Abu Dhabi recently launched a [University of Artificial Intelligence](https://medium.com/@jordanmicahbennett/worlds-1st-university-like-artificial-intelligence-initiative-launched-somewhat-in-jamaica-d0deb56a4495)!)
    * In 2016 I had launched "Machine Learning Jamaica Institute", as I pointed out, [also in the aforementioned gleaner article](http://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could).
    
