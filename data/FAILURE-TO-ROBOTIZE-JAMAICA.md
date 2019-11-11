@@ -1,4 +1,4 @@
-1. Andrew Yang, a rising 2020 presidential candidate has already began to give 10 families Universal Basic Income-like pay of 1000 usd per month, no work required. 
+1. Andrew Yang, a rising 2020 presidential candidate has already began to give 10 families Universal Basic Income-like pay of 1000 usd per month, no work required, no questions asked.
    * [Yang's plan is to give 1000 to every citizen 18 and older, no work required.](https://www.youtube.com/watch?v=p_p2WQCSrNU)
 
 2. [Self driving trucks were being tested since 3 years ago](https://www.youtube.com/watch?v=sIlCR4eG8_o). 
@@ -31,11 +31,11 @@ Who shall coutries like Jamaica tax when Jamaican jobs start to be consumed by g
 Since Jamaica has no Amazon-like place or large Ai aligned corporation, some reasonble ways to combat this issue are to:
 
 1. Introduce modern Artificial Intelligence in our university Computer Science degrees. Foreign countries have excellent modern Artificial Intelligence courses embedded in their Computer Science degrees.
-   * As I wrote in gleaner in 2018, I advised UWI Artificial Intelligence lecturer to do this in 2016, and the lecturer is slowly introducing neural networks for eg since then.
+   * [As I wrote in gleaner in 2018](http://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could), I advised UWI Artificial Intelligence lecturer to do this in 2016, and the lecturer is slowly introducing neural networks for eg since then.
 
 2. Try to equip our medium sized businesses  (that have hired programmers) with more Artificial Intelligence aligned components, including building Artificial Intelligence skills in human resources.
 
 3. Try to build an independent institution for Artificial Intelligence. 
-   * In 2016 I had launched "Machine Learning Jamaica Institute." 
+   * In 2016 I had launched "Machine Learning Jamaica Institute", as I pointed out, [also in the aforementioned gleaner article](http://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could).
 
 The activities above, are reasonable ways to avoid abundant social-ills in the future, brought to bear by artificial intelligence usage, which is only speeding up, [in some cases exponentially](https://www.forbes.com/sites/joemckendrick/2018/12/19/how-fast-is-artificial-intelligence-growing-look-at-the-key-bellwethers/#2a5dc1d7474a). 
