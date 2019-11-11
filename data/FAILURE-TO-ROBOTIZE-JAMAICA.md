@@ -1,7 +1,8 @@
 
+Image below generated using [this online tool](http://atom.smasher.org/error/).
 ![Alt Text](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/data/failure%20to%20robotize.png)
 
-   * Image above generated using [this online tool](http://atom.smasher.org/error/).
+ 
    
 1. Andrew Yang, a rising 2020 presidential candidate has already began to give 10 families Universal Basic Income-like pay of 1000 usd per month, no work required, no questions asked.
    * [Yang's plan is to give 1000 to every citizen 18 and older, no work required.](https://www.youtube.com/watch?v=p_p2WQCSrNU)
