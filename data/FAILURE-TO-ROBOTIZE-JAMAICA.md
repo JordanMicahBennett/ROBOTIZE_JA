@@ -2,8 +2,10 @@
    * [Yang's plan is to give 1000 to every citizen 18 and older, no work required.](https://www.youtube.com/watch?v=p_p2WQCSrNU)
 
 2. [Self driving trucks were being tested since 3 years ago](https://www.youtube.com/watch?v=sIlCR4eG8_o). 
-   * [Elon musks reports that self-driving now yield 98% accuracy with caveats.](https://www.thestreet.com/investing/tesla-is-decades-away-from-full-self-driving-cars-14853271)
+   * [Elon Musk reports that self-driving now yield 98% accuracy with caveats.](https://www.thestreet.com/investing/tesla-is-decades-away-from-full-self-driving-cars-14853271)
    * Truck driving is a quite popular job in USA, currently done by humans. 
+   *   [rtsinc on Why Trucking  (by humans) is Still America’s Number One Job](https://www.rtsinc.com/articles/why-trucking-still-america-s-number-one-job#:~:targetText=Truckers%20are%20Everywhere&targetText=There%20are%20more%20than%201.7,tied%20to%20the%20trucking%20industry.)
+   
    * [Truck drivers are already assaulting self driving Tesla 3 cars](https://m.youtube.com/watch?v=Vy4wVsSVnyI). What will happen when truck-driving jobs are actually lost?
 
 3. [Waymo self driving taxis with no drivers had been live since 2018.](https://www.youtube.com/watch?v=2hqTnmn51Fg)
