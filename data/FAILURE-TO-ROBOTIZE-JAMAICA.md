@@ -21,7 +21,7 @@ Image below generated using [this online tool](http://atom.smasher.org/error/).
 
 4. Four (4) million jobs were automated away in America [according to a recent study](https://conexus.cberdata.org/files/MfgReality.pdf).
 
-5. Thirty (30%) of shops in USA will be closed in a little while, due to things like amazon automation.
+5. Thirty percent (30%) of shops in USA will be closed in a little while, due to things like amazon automation.
    * [See study.](https://www.forbes.com/sites/pamdanziger/2018/10/14/the-fall-of-the-mall-and-three-ways-to-make-them-rise-again/#51d645c92a26)
 
 6. Call center jobs are already being automated. [See sample call center job automation software.](https://www.digitalgenius.com/)
@@ -32,7 +32,9 @@ Image below generated using [this online tool](http://atom.smasher.org/error/).
      *  [JIS.gov/More Young People Seeing Opportunities in BPO](https://jis.gov.jm/young-people-seeing-opportunities-bpo/)
      *  [JIS.gov/Two Leading Companies Open BPO Facilities in Mo-Bay](https://jis.gov.jm/two-leading-companies-open-bpo-facilities-mo-bay/)
      
+     
 How long before Jamaican companies become aware of these cheaper-than-human automation strategies?
+   * [Statistics show that retraining amidst new unemployment tends to bear little fruit](https://www.theatlantic.com/education/archive/2018/01/the-false-promises-of-worker-retraining/549398/). How will our many Jamaican call center workers thrive amidst automation?
    
    
 
