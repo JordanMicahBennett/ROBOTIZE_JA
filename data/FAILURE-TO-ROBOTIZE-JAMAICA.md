@@ -1,4 +1,6 @@
 
+See [main page](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/README.md)
+
 Image below generated using [this online tool](http://atom.smasher.org/error/).
 ![Alt Text](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/data/failure%20to%20robotize.png)
 
