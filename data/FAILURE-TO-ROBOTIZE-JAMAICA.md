@@ -18,11 +18,12 @@
 
 6. Call center jobs are already being automated. [See sample call center job automation software.](https://www.digitalgenius.com/)
    * Call center jobs are quite popular in Jamaica.
-   * Below are situations where JAmaicans are celebrating growing human-based call center jobs:
+   * Below are situations where Jamaicans are celebrating growing human-based call center jobs:
      *  [Jamaica Observer/HEART Trust to break ground for BPO Finishing School](http://www.jamaicaobserver.com/business-observer/heart-trust-to-break-ground-for-bpo-finishing-school_99740?profile=1056)
      *  [Jamaica Gleaner/BPO Job Boom - $3.5b Portmore Investment To Generate Work For 4,500](http://jamaica-gleaner.com/article/lead-stories/20191025/bpo-job-boom-35b-portmore-investment-generate-work-4500)
      *  [JIS.gov/More Young People Seeing Opportunities in BPO](https://jis.gov.jm/young-people-seeing-opportunities-bpo/)
      *  [JIS.gov/Two Leading Companies Open BPO Facilities in Mo-Bay](https://jis.gov.jm/two-leading-companies-open-bpo-facilities-mo-bay/)
+     
 How long before Jamaican companies become aware of these cheaper-than-human automation strategies?
    
    
@@ -35,14 +36,14 @@ Notably, the effects of automation are not constrained to America!!
 
 Who shall coutries like Jamaica tax when Jamaican jobs start to be consumed by global-like automation?
 
-Since Jamaica has no Amazon-like place or large Ai aligned corporation, some reasonble ways to combat this issue are to:
+Since Jamaica has no Amazon-like place or large Artificial Intelligence aligned corporation, some reasonble ways of combating these issues are to:
 
 1. Introduce modern Artificial Intelligence in our university Computer Science degrees. Foreign countries have excellent modern Artificial Intelligence courses embedded in their Computer Science degrees.
    * [As I wrote in gleaner in 2018](http://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could), I advised UWI Artificial Intelligence lecturer to do this in 2016, and the lecturer is slowly introducing neural networks for eg since then.
 
-2. Try to equip our medium sized businesses  (that have hired programmers) with more Artificial Intelligence aligned components, including building Artificial Intelligence skills in human resources.
+2. Try to equip our medium sized businesses (that have hired programmers) with more Artificial Intelligence aligned components, including building Artificial Intelligence skills in human resources.
 
-3. Try to build an independent institution for Artificial Intelligence. 
+3. Try to build independent institutions for Artificial Intelligence. (Abu Dhabi recently launched a [University of Artificial Intelligence](https://medium.com/@jordanmicahbennett/worlds-1st-university-like-artificial-intelligence-initiative-launched-somewhat-in-jamaica-d0deb56a4495)!)
    * In 2016 I had launched "Machine Learning Jamaica Institute", as I pointed out, [also in the aforementioned gleaner article](http://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could).
    
 4. Launch initiatives such as [RobotizeJa](https://github.com/JordanMicahBennett/ROBOTIZE_JA/), to help democratize Artificial Intelligence usage.
