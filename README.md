@@ -14,7 +14,7 @@ See how artificial intelligence/machine learning has demonstrably enhanced human
 # FAILURE TO ROBOTIZE JA?
 
 See the following item, for a quick grasp of likely issues arrising from failure to perform initiatives like RobotizeJa.
-   * [Failure to "Robotize Jamaiaca".](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/data/FAILURE-TO-ROBOTIZE-JAMAICA.md)
+   * [Failure to "Robotize Jamaica".](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/data/FAILURE-TO-ROBOTIZE-JAMAICA.md)
 
 # QUICK START ON UNDERSTANDING WHAT ARTIFICIAL INTELLIGENCE/MACHINE LEARNING IS ABOUT
 If need be, please see article 1/week 1 of my Gleaner column, for a reasonably concrete introduction to machine learning: "[Artificial Intelligence And The Economy | Utilising Artificial Intelligence Could Aid Economic Stimulation](http://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could)".
