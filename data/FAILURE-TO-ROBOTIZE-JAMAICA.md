@@ -24,7 +24,7 @@ Image below generated using [this online tool](http://atom.smasher.org/error/).
 5. Thirty percent (30%) of shops in USA will be closed in a little while, due to things like amazon automation.
    * [See study.](https://www.forbes.com/sites/pamdanziger/2018/10/14/the-fall-of-the-mall-and-three-ways-to-make-them-rise-again/#51d645c92a26)
 
-6. Call center jobs are already being automated. [See sample call center job automation software.](https://www.digitalgenius.com/)
+6. As one example, call center jobs are already being automated. [See sample call center job automation software.](https://www.digitalgenius.com/)
    * Call center jobs are quite popular in Jamaica.
    * Below are situations where Jamaicans are celebrating growing human-based call center jobs:
      *  [Jamaica Observer/HEART Trust to break ground for BPO Finishing School](http://www.jamaicaobserver.com/business-observer/heart-trust-to-break-ground-for-bpo-finishing-school_99740?profile=1056)
