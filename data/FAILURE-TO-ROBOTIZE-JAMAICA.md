@@ -54,6 +54,6 @@ Since Jamaica has no Amazon-like place or large Artificial Intelligence aligned 
 3. Try to build independent institutions for Artificial Intelligence. (Abu Dhabi recently launched a [University of Artificial Intelligence](https://medium.com/@jordanmicahbennett/worlds-1st-university-like-artificial-intelligence-initiative-launched-somewhat-in-jamaica-d0deb56a4495)!)
    * In 2016 I had launched "Machine Learning Jamaica Institute", as I pointed out, [also in the aforementioned gleaner article](http://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could).
    
-4. Launch initiatives such as [RobotizeJa](https://github.com/JordanMicahBennett/ROBOTIZE_JA/), to help democratize Artificial Intelligence usage.
+4. Launching initiatives such as [RobotizeJa](https://github.com/JordanMicahBennett/ROBOTIZE_JA/), to help democratize Artificial Intelligence usage.
 
 The activities above, are reasonable ways to avoid or rather minimize abundant social-ills in the future, brought to bear by artificial intelligence usage, which is only speeding up, [in some cases exponentially](https://www.forbes.com/sites/joemckendrick/2018/12/19/how-fast-is-artificial-intelligence-growing-look-at-the-key-bellwethers/#2a5dc1d7474a). 
