@@ -2,23 +2,27 @@
    * [Yang's plan is to give 1000 to every citizen 18 and older, no work required.](https://www.youtube.com/watch?v=p_p2WQCSrNU)
 
 2. [Self driving trucks were being tested since 3 years ago](https://www.youtube.com/watch?v=sIlCR4eG8_o). 
-   * Elon musks reports that self-driving now yield 98% accuracy with caveats.](https://www.thestreet.com/investing/tesla-is-decades-away-from-full-self-driving-cars-14853271)
+   * [Elon musks reports that self-driving now yield 98% accuracy with caveats.](https://www.thestreet.com/investing/tesla-is-decades-away-from-full-self-driving-cars-14853271)
    * Truck driving is a quite popular job in USA, currently done by humans. 
-   * Truck drivers are already assaulting self driving Tesla 3 cars. What will happen when truck jobs are actually lost?
- https://m.youtube.com/watch?v=Vy4wVsSVnyI
+   * [Truck drivers are already assaulting self driving Tesla 3 cars](https://m.youtube.com/watch?v=Vy4wVsSVnyI). What will happen when truck-driving jobs are actually lost?
 
-3. [Waymo self driving taxis with no drivers live since 2018.](https://www.youtube.com/watch?v=2hqTnmn51Fg)
+3. [Waymo self driving taxis with no drivers had been live since 2018.](https://www.youtube.com/watch?v=2hqTnmn51Fg)
    * Taxi jobs have began to be lost.
 
 4. Four (4) million jobs were automated away in America [according to a recent study](https://conexus.cberdata.org/files/MfgReality.pdf).
 
-
 5. Thirty (30%) of shops in USA will be closed in a little while, due to things like amazon automation.
    * [See study.](https://www.forbes.com/sites/pamdanziger/2018/10/14/the-fall-of-the-mall-and-three-ways-to-make-them-rise-again/#51d645c92a26)
 
-6. Call center jobs are already being automated.
-
-   * Sample call center jobs automation:  https://www.digitalgenius.com/
+6. Call center jobs are already being automated. [See sample call center job automation software.](https://www.digitalgenius.com/
+   * Call center jobs are quite popular in Jamaica.
+   * Below are situations where JAmaicans are celebrating growing human-based call center jobs:
+   *   [Jamaica Observer/HEART Trust to break ground for BPO Finishing School](http://www.jamaicaobserver.com/business-observer/heart-trust-to-break-ground-for-bpo-finishing-school_99740?profile=1056)
+   *   [Jamaica Gleaner/BPO Job Boom - $3.5b Portmore Investment To Generate Work For 4,500](http://jamaica-gleaner.com/article/lead-stories/20191025/bpo-job-boom-35b-portmore-investment-generate-work-4500)
+   *   [JIS.gov/More Young People Seeing Opportunities in BPO](https://jis.gov.jm/young-people-seeing-opportunities-bpo/)
+   *   [JIS.gov/Two Leading Companies Open BPO Facilities in Mo-Bay](https://jis.gov.jm/two-leading-companies-open-bpo-facilities-mo-bay/)
+   
+   
 
 Conclusion
 =========================
