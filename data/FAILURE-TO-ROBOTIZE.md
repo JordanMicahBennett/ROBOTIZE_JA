@@ -1,6 +1,8 @@
-1.) Andrew Yang 2020 presidential candidate has already began to give 10 families Universal Basic Income of 1000 usd/m. (No work required. Plan is to give 1000 to every citizen 18 and older)
+1. Andrew Yang, a rising 2020 presidential candidate has already began to give 10 families Universal Basic Income-like pay of 1000 usd per month, no work required. (No work required. Plan is to give 1000 to every citizen 18 and older)
 
-2.) Self driving trucks were being tested since 3 years ago. (98% accuracy) This is a common job in usa done by humans. 
+2. [Self driving trucks were being tested since 3 years ago](https://www.youtube.com/watch?v=sIlCR4eG8_o). 
+   * Elon musks reports that self-driving trucks now yield 98% accuracy with caveats.](https://www.thestreet.com/investing/tesla-is-decades-away-from-full-self-driving-cars-14853271)
+   * Truck driving is a quie popular job in USA, currently done by humans. 
 
 Truck drivers are already assaulting self driving Tesla 3 cars. What will happen when truck jobs are lost?
  https://m.youtube.com/watch?v=Vy4wVsSVnyI
