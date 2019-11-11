@@ -13,7 +13,7 @@ See how artificial intelligence/machine learning has demonstrably enhanced human
 
 # FAILURE TO ROBOTIZE JA?
 
-See the following item, for a quick grasp of likely issues arrising from failure to perform initiatives like RobotizeJa.
+See the following item, for a quick grasp of likely issues that may arrise from failure to perform initiatives like RobotizeJa.
    * [Failure to "Robotize Jamaica".](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/data/FAILURE-TO-ROBOTIZE-JAMAICA.md)
 
 # QUICK START ON UNDERSTANDING WHAT ARTIFICIAL INTELLIGENCE/MACHINE LEARNING IS ABOUT
