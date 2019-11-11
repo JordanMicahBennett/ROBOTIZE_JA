@@ -12,7 +12,7 @@ Image below generated using [this online tool](http://atom.smasher.org/error/).
 2. [Self driving trucks were being tested since 3 years ago](https://www.youtube.com/watch?v=sIlCR4eG8_o). 
    * [Elon Musk reports that self-driving now yield 98% accuracy with caveats.](https://www.thestreet.com/investing/tesla-is-decades-away-from-full-self-driving-cars-14853271)
    * Truck driving is a quite popular job in USA, currently done by humans. 
-     * [rtsinc on Why Trucking  (by humans) is Still America’s Number One Job](https://www.rtsinc.com/articles/why-trucking-still-america-s-number-one-job#:~:targetText=Truckers%20are%20Everywhere&targetText=There%20are%20more%20than%201.7,tied%20to%20the%20trucking%20industry.)
+     * [See rtsinc on why trucking  (by humans) is still america’s number one job](https://www.rtsinc.com/articles/why-trucking-still-america-s-number-one-job#:~:targetText=Truckers%20are%20Everywhere&targetText=There%20are%20more%20than%201.7,tied%20to%20the%20trucking%20industry.)
    
    * [Truck drivers are already assaulting self driving Tesla 3 cars](https://m.youtube.com/watch?v=Vy4wVsSVnyI). What will happen when truck-driving jobs are actually lost?
 
