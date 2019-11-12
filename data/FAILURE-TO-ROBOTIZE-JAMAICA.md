@@ -14,7 +14,7 @@ Image below generated using [this online tool](http://atom.smasher.org/error/).
    * Truck driving is a quite popular job in USA, currently done by humans. 
      * [See rtsinc on why trucking  (by humans) is still america’s number one job](https://www.rtsinc.com/articles/why-trucking-still-america-s-number-one-job#:~:targetText=Truckers%20are%20Everywhere&targetText=There%20are%20more%20than%201.7,tied%20to%20the%20trucking%20industry).
    
-   * [Truck drivers are already assaulting self driving Tesla 3 cars](https://m.youtube.com/watch?v=Vy4wVsSVnyI). What will happen when truck-driving jobs are actually lost?
+   * [Truck drivers are already doing things such as assaulting self driving Tesla 3 cars](https://m.youtube.com/watch?v=Vy4wVsSVnyI). What will happen when truck-driving jobs are actually lost?
 
 3. [Waymo self driving taxis with no drivers had been live since 2018.](https://www.youtube.com/watch?v=2hqTnmn51Fg)
    * Taxi jobs have began to be lost.
