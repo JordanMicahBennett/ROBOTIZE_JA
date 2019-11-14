@@ -1,11 +1,9 @@
 
-See [main page](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/README.md)
+If desired, you may return to the [main page](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/README.md).
 
-Image below generated using [this online tool](http://atom.smasher.org/error/).
 ![Alt Text](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/data/failure%20to%20robotize%20ja%20v2.png)
 
  
-   
 1. Andrew Yang, a rising 2020 presidential candidate [has already began to give 10 families Universal Basic Income-like pay of 1000 usd per month](https://www.youtube.com/watch?v=Qwt9WHe68TY), no work required, no questions asked. 
    * [Here is how the "The Fassi Family of New Hampshire" is benefiting from 1000 usd per month from Yang, as an early run of Yang's grander Basic income plan.](https://www.youtube.com/watch?v=Pw1UBEWZP2I)
    * [Here is how Kyle Christensen is benefiting from 1000 usd per month from Yang, as an early run of Yang's grander Basic income plan.](https://www.youtube.com/watch?v=MK3Bxvr6F4M)
