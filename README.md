@@ -62,7 +62,7 @@ Let's talk about how Ai can benefit/enhance your institution's pipeline. Contact
 
 
 
-# LIST OF AIDED INSTITUIONS 
+# LIST OF AIDED INSTITUTIONS 
 
 --
 
