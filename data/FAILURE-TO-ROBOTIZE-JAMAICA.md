@@ -36,7 +36,7 @@ If desired, you may return to the [main page](https://github.com/JordanMicahBenn
      
 How long before Jamaican companies become aware of these cheaper-than-human automation strategies?
    * [Statistics show that retraining amidst new unemployment tends to bear little fruit](https://www.theatlantic.com/education/archive/2018/01/the-false-promises-of-worker-retraining/549398/). How will our many Jamaican call center workers thrive amidst automation?
-   * See also: "[How talking machines are taking call centre jobs](https://www.bbc.com/news/business-45272835)
+   * See also: "[How talking machines are taking call centre jobs](https://www.bbc.com/news/business-45272835)"
    
    
 
