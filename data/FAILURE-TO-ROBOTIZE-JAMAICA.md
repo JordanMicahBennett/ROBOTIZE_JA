@@ -3,28 +3,29 @@ If desired, you may return to the [main page](https://github.com/JordanMicahBenn
 
 ![Alt Text](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/data/failure%20to%20robotize%20ja%20v2.png)
 
+1. 800 million jobs automated up until the year 2035, [is forecasted by a study by Bank of America Merrill Lynch](https://www.inverse.com/article/60919-automation-jobs-millions-lost). Another study by McKinsey Global Institute, [forecasts that a similar 800 million job count loss, up until the year 2030](https://www.theverge.com/2017/11/30/16719092/automation-robots-jobs-global-800-million-forecast)!
  
-1. Andrew Yang, a rising 2020 presidential candidate [has already began to give 10 families Universal Basic Income-like pay of 1000 usd per month](https://www.youtube.com/watch?v=Qwt9WHe68TY), no work required, no questions asked. 
+2. Andrew Yang, a rising 2020 presidential candidate [has already began to give 10 families Universal Basic Income-like pay of 1000 usd per month](https://www.youtube.com/watch?v=Qwt9WHe68TY), no work required, no questions asked. 
    * [Here is how the "The Fassi Family of New Hampshire" is benefiting from 1000 usd per month from Yang, as an early run of Yang's grander Basic income plan.](https://www.youtube.com/watch?v=Pw1UBEWZP2I)
    * [Here is how Kyle Christensen is benefiting from 1000 usd per month from Yang, as an early run of Yang's grander Basic income plan.](https://www.youtube.com/watch?v=MK3Bxvr6F4M)
      * [Yang's plan is to give 1000 to every citizen 18 and older, no work required.](https://www.youtube.com/watch?v=p_p2WQCSrNU)
 
-2. [Self driving trucks were being tested since 3 years ago](https://www.youtube.com/watch?v=sIlCR4eG8_o). 
+3. [Self driving trucks were being tested since 3 years ago](https://www.youtube.com/watch?v=sIlCR4eG8_o). 
    * [Elon Musk reports that self-driving now yields 98% accuracy with caveats.](https://www.thestreet.com/investing/tesla-is-decades-away-from-full-self-driving-cars-14853271)
    * Truck driving is a quite popular job in USA, currently done by humans. 
      * [See rtsinc on why trucking  (by humans) is still america’s number one job](https://www.rtsinc.com/articles/why-trucking-still-america-s-number-one-job#:~:targetText=Truckers%20are%20Everywhere&targetText=There%20are%20more%20than%201.7,tied%20to%20the%20trucking%20industry).
    
    * [Truck drivers are already doing things such as assaulting self driving Tesla 3 cars](https://m.youtube.com/watch?v=Vy4wVsSVnyI). What will happen when truck-driving jobs are actually lost?
 
-3. [Waymo self driving taxis with no drivers had been live since 2018.](https://www.youtube.com/watch?v=2hqTnmn51Fg)
+4. [Waymo self driving taxis with no drivers had been live since 2018.](https://www.youtube.com/watch?v=2hqTnmn51Fg)
    * Taxi jobs have began to be lost.
 
-4. Four (4) million jobs were automated away in America [according to a recent study](https://conexus.cberdata.org/files/MfgReality.pdf).
+5. Four (4) million jobs were automated away in America [according to a recent study](https://conexus.cberdata.org/files/MfgReality.pdf).
 
-5. Thirty percent (30%) of shops in USA will be closed in a little while, due to things like amazon automation.
+6. Thirty percent (30%) of shops in USA will be closed in a little while, due to things like amazon automation.
    * [See study.](https://www.forbes.com/sites/pamdanziger/2018/10/14/the-fall-of-the-mall-and-three-ways-to-make-them-rise-again/#51d645c92a26)
 
-6. As one example, call center jobs are already being automated. [See sample call center job automation software.](https://www.digitalgenius.com/)
+7. As one example, call center jobs are already being automated. [See sample call center job automation software.](https://www.digitalgenius.com/)
    * Call center jobs are quite popular in Jamaica.
    * Below are situations where Jamaicans are celebrating growing human-based call center jobs:
      *  [Jamaica Observer/HEART Trust to break ground for BPO Finishing School](http://www.jamaicaobserver.com/business-observer/heart-trust-to-break-ground-for-bpo-finishing-school_99740?profile=1056)
