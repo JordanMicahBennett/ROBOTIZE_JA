@@ -44,7 +44,7 @@ If need be, please see article 1/week 1 of my Gleaner column, for a reasonably c
 
 
 # ROBOTIZE_JA IS A SUBSIDIARY OF MACHINE LEARNING JAMAICA INSTITUTE PROJECT
-1. [MLJI Website](http://mlj-institute.rf.gd/)
+1. [MLJI Website](http://mlj-institute.appspot.com/)
 
 2. [MLJI Curriculum](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/README.md)
 
