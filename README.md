@@ -7,7 +7,7 @@ Note: Logo designed using [this Artificial Intelligence based online platform](h
 
 
 # ROBOTIZE_JA 
-Grand Project to "robotize" the island of Jamaica.
+Grand Project to "robotize" the island of Jamaica, [established on October 24, 2019](https://github.com/JordanMicahBennett/ROBOTIZE_JA/commits?after=9c96da75f01e1f6de4bc4a23690501df5bb0c502+104&author=JordanMicahBennett).
 
 See how artificial intelligence/machine learning has demonstrably enhanced human life: [Youtube/Nvidia "I Am AI: GTC 2019 Kickoff"](https://www.youtube.com/watch?v=GWL1HNHDSq4)
 
