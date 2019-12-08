@@ -80,19 +80,21 @@ Let's talk about how Ai can benefit/enhance your institution's pipeline. Contact
 
     * [UWI Mona also introduces Master Of Science in Data Science in Computer Science!!!](https://www.mona.uwi.edu/compsci/new-data-science-programmes-0)
 
-# UPDATES - Jamaican prime minister, Andrew Holness plans to build stem schools in response to growing Artificial Intelligence changes in society.
+# UPDATES - JAMAICAN PRIME MINISTER, ANDREW HOLNESS PLANS TO BUILD STEM SCHOOLS IN RESPONSE TO GROWING ARTIFICIAL INTELLIGENCE CHANGES IN SOCIETY.
 
-* June 2018: [I write about my advice to UWI Mona to introduce neural networks/modern artificial intelligence as an independent course to the Computer Science degree, as well as Machine Learning Jamaica Institute initiative/platform.](http://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could)
-
+* June 2018: I write about my advice to UWI Mona to introduce neural networks/modern artificial intelligence as an independent course to the Computer Science degree, as well as "Machine Learning Jamaica Institute" initiative/platform.
+	* Gleaner article: http://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could
+	* "Machine Learning Jamaica Institute" wesbite: http://mlj-institute.appspot.com/
+	
 * November 2019: 
+	* Prime minister Andrew Holness, [plans to build Stem focussed schools in response to growing Artificial Intellgence impact](http://www.loopjamaica.com/content/gojchina-build-stem-schools-move-ja-21st-century-holness).
 
-    * [UWI Mona introduced Data science/modern artificial intelligence to the 1st degree Computer Science coursework!!!!!!](https://www.mona.uwi.edu/compsci/sites/default/files/compsci/uploads/department_of_computing_list_of_undergraduate_courses_2018-2019.pdf)
-
-    * [UWI Mona also introduces Master Of Science in Data Science in Computer Science!!!](https://www.mona.uwi.edu/compsci/new-data-science-programmes-0)
 	
 * However, I detect that STEM focussed schools while excellent, will not be sufficient to adequately prepare for the incoming automation, where even cognitive tasks like radiology stem careers, are already being automated away now:
-    * Breaking news: [We can now diagnose pneumonia from chest X-rays better than radiologists.](https://stanfordmlgroup.github.io/projects/chexnet/)
-    * This is a part of the reason why we opted to start [Machine Learning Jamaica Institute](http://mlj-institute.appspot.com/) in 2016.
+	* Breaking news: [We can now diagnose pneumonia from chest X-rays better than radiologists.](https://stanfordmlgroup.github.io/projects/chexnet/)
+	* This is a part of the reason why we opted to start [Machine Learning Jamaica Institute](http://mlj-institute.appspot.com/) in 2016.
+
+
 
 
 
