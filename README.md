@@ -86,7 +86,7 @@ Let's talk about how Ai can benefit/enhance your institution's pipeline. Contact
 
 * 2016 later: I also started machine learning Jamaica Institute, as an independent institution for machine learning.
 
-http://mlj-institute.appspot.com/
+	* http://mlj-institute.appspot.com/
 
 * June 2018: I write about my advice to UWI Mona to introduce neural networks/modern artificial intelligence as an independent course to the Computer Science degree, as well as "Machine Learning Jamaica Institute" initiative/platform.
 	* Gleaner article: http://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could
