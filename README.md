@@ -70,7 +70,7 @@ Let's talk about how Ai can benefit/enhance your institution's pipeline. Contact
 # UPDATES/MY FACE TO FACE ADVICE TO UWI MONA AI LECTURER TO INTRODUCE MODERN AI TO COURSEWORK
 * 2016: In a face to face talk, I had advised UWI Mona Ai lecturer to introduced neural networks/modern artificial intelligence as an independent course to the Computer Science degree.
 
-* 2016 later: I also started [Machine learning Jamaica Institute](http://mlj-institute.appspot.com/), as an independent institution for machine learning.
+* 2016 later: I also started [Machine learning Jamaica Institute](http://mlj-institute.appspot.com/), as an independent institution for machine learning/modern artificial intelligence.
 
 * June 2018: [I write about my advice to UWI Mona to introduce neural networks/modern artificial intelligence as an independent course to the Computer Science degree, as well as Machine Learning Jamaica Institute initiative/platform.](http://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could)
 
