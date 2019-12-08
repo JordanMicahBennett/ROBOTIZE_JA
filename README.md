@@ -90,7 +90,7 @@ Let's talk about how Ai can benefit/enhance your institution's pipeline. Contact
 
 * June 2018: I write about my advice to UWI Mona to introduce neural networks/modern artificial intelligence as an independent course to the Computer Science degree, as well as "Machine Learning Jamaica Institute" initiative/platform.
 	* Gleaner article: http://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could
-	* "Machine Learning Jamaica Institute" wesbite: http://mlj-institute.appspot.com/
+
 	
 * November 2019: 
 	* Jamaica Prime minister Andrew Holness, [plans to build Stem focussed schools in response to growing Artificial Intellgence impact](http://www.loopjamaica.com/content/gojchina-build-stem-schools-move-ja-21st-century-holness).
