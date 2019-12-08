@@ -82,7 +82,6 @@ Let's talk about how Ai can benefit/enhance your institution's pipeline. Contact
 
 # UPDATES - JAMAICAN PRIME MINISTER, ANDREW HOLNESS PLANS TO BUILD STEM SCHOOLS IN RESPONSE TO GROWING ARTIFICIAL INTELLIGENCE CHANGES IN SOCIETY.
 
-
 * 2016: In a face to face talk, I had advised UWI Mona Ai lecturer to introduced neural networks/modern artificial intelligence as an independent course to the Computer Science degree.
 
 * 2016 later: I also started machine learning Jamaica Institute, as an independent institution for machine learning.
@@ -94,7 +93,7 @@ http://mlj-institute.appspot.com/
 	* "Machine Learning Jamaica Institute" wesbite: http://mlj-institute.appspot.com/
 	
 * November 2019: 
-	* Prime minister Andrew Holness, [plans to build Stem focussed schools in response to growing Artificial Intellgence impact](http://www.loopjamaica.com/content/gojchina-build-stem-schools-move-ja-21st-century-holness).
+	* Jamaica Prime minister Andrew Holness, [plans to build Stem focussed schools in response to growing Artificial Intellgence impact](http://www.loopjamaica.com/content/gojchina-build-stem-schools-move-ja-21st-century-holness).
 
 	
 * However, I detect that STEM focussed schools while excellent, will not be sufficient to adequately prepare for the incoming automation, where even cognitive tasks like radiology stem careers, are already being automated away now:
