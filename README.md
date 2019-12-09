@@ -98,7 +98,7 @@ Let's talk about how Ai can benefit/enhance your institution's pipeline. Contact
 	
 * However, I detect that STEM focused schools while excellent, will not be sufficient to adequately prepare for the incoming automation, where even cognitive tasks like radiology stem careers, are already being automated away now:
 	* Breaking news: [We can now diagnose pneumonia from chest X-rays better than radiologists.](https://stanfordmlgroup.github.io/projects/chexnet/)
-	* This is a part of the reason why we opted to start [Machine Learning Jamaica Institute](http://mlj-institute.appspot.com/) in 2016.
+	* This is a part of the reason why I opted to start [Machine Learning Jamaica Institute](http://mlj-institute.appspot.com/) in 2016.
 
 
 
