@@ -4,6 +4,7 @@ If desired, you may return to the [main page](https://github.com/JordanMicahBenn
 ![Alt Text](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/data/failure%20to%20robotize%20ja%20v2.png)
 
 1. 800 million jobs shall be lost to automation up until the year 2035, [as forecasted by a study by Bank of America Merrill Lynch](https://www.inverse.com/article/60919-automation-jobs-millions-lost). Another study by McKinsey Global Institute, [forecasts a similar 800 million job count loss, up until the year 2030](https://www.theverge.com/2017/11/30/16719092/automation-robots-jobs-global-800-million-forecast)!
+   * Notably, [4 million jobs have already been automated away in one region](https://conexus.cberdata.org/files/MfgReality.pdf).
  
 2. Andrew Yang, a rising 2020 presidential candidate [has already began to give 10 families Universal Basic Income-like pay of 1000 usd per month](https://www.youtube.com/watch?v=Qwt9WHe68TY), no work required, no questions asked. 
    * [Here is how the "The Fassi Family of New Hampshire" is benefiting from 1000 usd per month from Yang, as an early run of Yang's grander Basic income plan.](https://www.youtube.com/watch?v=Pw1UBEWZP2I)
