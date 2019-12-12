@@ -68,11 +68,6 @@ Let's talk about how Ai can benefit/enhance your institution's pipeline. Contact
 --
 
 
-# UPDATES - MY ADVICE TO THE PRIME MINISTER OF JAMAICA TO ADD MINISTER OF "ARTIFICIAL INTELLIGENCE" PORTFOLIO
-
-I advise Jamaica Prime Minister, the Most Honourable Andrew Michael Holness, to help create a new political portfolio/role, namely "Minister of Artificial Intelligence" of Jamaica, in [my recent "letter of Artificial Intelligence" to him](https://drive.google.com/open?id=1SnM2NvUlg6dmJKZo3i6lI9dMsOFvavbl).
-
-
 
 
 # UPDATES - RE: MY FACE TO FACE ADVICE TO UWI MONA AI LECTURER TO INTRODUCE MODERN AI TO COURSEWORK
@@ -109,6 +104,11 @@ I advise Jamaica Prime Minister, the Most Honourable Andrew Michael Holness, to 
 	* This is a part of the reason why I opted to start [Machine Learning Jamaica Institute](http://mlj-institute.appspot.com/) in 2016.
 
 
+
+
+# UPDATES - MY ADVICE TO THE PRIME MINISTER OF JAMAICA TO ADD MINISTER OF "ARTIFICIAL INTELLIGENCE" PORTFOLIO
+
+I advise Jamaica Prime Minister, the Most Honourable Andrew Michael Holness, to help create a new political portfolio/role, namely "Minister of Artificial Intelligence" of Jamaica, in [my recent "letter of Artificial Intelligence" to him](https://drive.google.com/open?id=1SnM2NvUlg6dmJKZo3i6lI9dMsOFvavbl).
 
 
 
