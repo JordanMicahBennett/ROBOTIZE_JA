@@ -16,7 +16,7 @@ If desired, you may return to the [main page](https://github.com/JordanMicahBenn
    * Truck driving is a quite popular job in USA, currently done by humans. 
      * [See rtsinc on why trucking  (by humans) is still america’s number one job](https://www.rtsinc.com/articles/why-trucking-still-america-s-number-one-job#:~:targetText=Truckers%20are%20Everywhere&targetText=There%20are%20more%20than%201.7,tied%20to%20the%20trucking%20industry).
      
-     * [News December 10, 2019: Thanks to Plus.ai, the first ever cross country commercial trip was completed by a self driving truck on December 10, 2019, driving for 3 days delivering butter from California to Pennsylvani.](https://www.dailymail.co.uk/sciencetech/article-7777243/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html)
+     * [News December 10, 2019: Via Plus.ai, the first ever cross country commercial trip was completed by a self driving truck on December 10, 2019, driving for 3 days delivering butter from California to Pennsylvani.](https://www.dailymail.co.uk/sciencetech/article-7777243/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html) This is an instance where trucking is already automated away to artificial intelligence!
      
    * [Truck drivers are already doing things such as assaulting self driving Tesla 3 cars](https://m.youtube.com/watch?v=Vy4wVsSVnyI). What will happen when truck-driving jobs are actually lost?
 
