@@ -85,7 +85,7 @@ Let's talk about how Ai can benefit/enhance your institution's pipeline. Contact
 
 # UPDATES - JAMAICAN PRIME MINISTER, ANDREW HOLNESS PLANS TO BUILD STEM SCHOOLS IN RESPONSE TO GROWING ARTIFICIAL INTELLIGENCE CHANGES IN SOCIETY.
 
-* 2016: In a face to face talk, I had advised UWI Mona Ai lecturer to introduced neural networks/modern artificial intelligence as an independent course to the Computer Science degree.
+* 2016: In a face to face talk, I had advised UWI Mona Ai lecturer to introduce neural networks/modern artificial intelligence as an independent course to the Computer Science degree.
 
 * 2016 later: I also started machine learning Jamaica Institute, as an independent institution for artificial intelligence.
 
