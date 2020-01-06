@@ -36,7 +36,8 @@ If desired, you may return to the [main page](https://github.com/JordanMicahBenn
      *  [Jamaica Gleaner/BPO Job Boom - $3.5b Portmore Investment To Generate Work For 4,500](http://jamaica-gleaner.com/article/lead-stories/20191025/bpo-job-boom-35b-portmore-investment-generate-work-4500)
      *  [JIS.gov/More Young People Seeing Opportunities in BPO](https://jis.gov.jm/young-people-seeing-opportunities-bpo/)
      *  [JIS.gov/Two Leading Companies Open BPO Facilities in Mo-Bay](https://jis.gov.jm/two-leading-companies-open-bpo-facilities-mo-bay/)
-    
+
+8. As another example, [100 Jamaican Wisynco jobs were reasonably automated away recently.](https://www.linkedin.com/pulse/did-100-jamaican-wisynco-jobs-just-get-automated-away-jordan-bennett)
      
 How long before Jamaican companies become aware of these cheaper-than-human automation strategies?
    * [Statistics show that retraining amidst new unemployment tends to bear little fruit](https://www.theatlantic.com/education/archive/2018/01/the-false-promises-of-worker-retraining/549398/). How will our many Jamaican call center workers thrive amidst automation?
