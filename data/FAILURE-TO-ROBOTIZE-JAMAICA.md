@@ -20,6 +20,12 @@ If desired, you may return to the [main page](https://github.com/JordanMicahBenn
      * [News December 10, 2019: Via Plus.ai, the first ever cross country commercial trip was completed by a self driving truck on December 10, 2019, driving for 3 days delivering butter from California to Pennsylvani.](https://www.dailymail.co.uk/sciencetech/article-7777243/Self-driving-truck-completes-cross-country-trip-California-Pennsylvania.html) This is an instance where trucking is already automated away to artificial intelligence!
      
    * [Truck drivers are already doing things such as assaulting self driving Tesla 3 cars](https://m.youtube.com/watch?v=Vy4wVsSVnyI). What will happen when truck-driving jobs are actually lost?
+   
+   * [Humans are attacking self driving waymo cars with rocks and knives](https://www.nbcnews.com/tech/innovation/humans-harass-attack-self-driving-waymo-cars-n950971). What will happen when taxi services are lost to automated drivers? 
+   
+   * etc.
+   
+   
 
 4. [Waymo self driving taxis with no drivers had been live since 2018.](https://www.youtube.com/watch?v=2hqTnmn51Fg)
    * Taxi jobs have began to be lost.
@@ -67,3 +73,5 @@ Since Jamaica has no Amazon-like place or large Artificial Intelligence aligned 
 4. Launch initiatives such as [RobotizeJa](https://github.com/JordanMicahBennett/ROBOTIZE_JA/), to help democratize Artificial Intelligence usage.
 
 The activities above, are reasonable ways to avoid or rather minimize abundant social-ills in the future, brought to bear by artificial intelligence usage, which is only speeding up, [in some cases exponentially](https://www.forbes.com/sites/joemckendrick/2018/12/19/how-fast-is-artificial-intelligence-growing-look-at-the-key-bellwethers/#2a5dc1d7474a). 
+
+Of note, [it is reasonably unethical to ignore focus on ai development because of the benefits it already brings](https://www.linkedin.com/pulse/why-ignoring-focus-artificial-intelligence-unethical-jordan-bennett/), and is forecasted to bring, but, it is also careless to try to place measures in place to prepare for the job-displacement that is to arrive here in Jamaica, where [losses have reasonably began](https://www.linkedin.com/pulse/did-100-jamaican-wisynco-jobs-just-get-automated-away-jordan-bennett).
