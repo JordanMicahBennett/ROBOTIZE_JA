@@ -59,7 +59,9 @@ Notably, the effects of automation are not constrained to America!!
 
 Who shall countries like Jamaica tax when Jamaican jobs start to be consumed by global-like automation?
 
-Since Jamaica has no Amazon-like place or large Artificial Intelligence aligned corporation, (and thereafter, little to no arguable means of delivering UBI-like programs of the scale that Yang's place of citizenship affords), some reasonble ways of combating these issues are to:
+   * [Artificial Intelligence can yield exponential returns.](https://www.forbes.com/sites/joemckendrick/2018/12/19/how-fast-is-artificial-intelligence-growing-look-at-the-key-bellwethers/#2a5dc1d7474a) Could an Ai boosted Jamaican economy be used to provide something like an opt-in citizen's dividend or basic income in light of growing automation?
+   
+Albeit, since Jamaica has no Amazon-like place or large Artificial Intelligence aligned corporation, (and thereafter, little to no arguable means of delivering UBI-like programs of the scale that Yang's place of citizenship affords), some reasonble ways of combating these issues are to:
 
 1. Introduce modern Artificial Intelligence in our university Computer Science degrees. Foreign countries have excellent modern Artificial Intelligence courses embedded in their Computer Science degrees.
    * [As I wrote in gleaner in 2018](http://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could), I advised UWI Artificial Intelligence lecturer to do this in 2016, and the lecturer is slowly introducing neural networks for eg since then.
