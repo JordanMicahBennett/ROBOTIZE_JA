@@ -76,7 +76,7 @@ Let's talk about how Ai can benefit/enhance your institution's pipeline. Contact
 
 # COVID-19 AI DATA/CALL ON THE MINISTRY OF HEALTH 
 
-I call on the [Ministry of Health](https://www.moh.gov.jm/) to utilize its administrative status to acquire more covid19 positive CT scan images, via China, for the purpose of further enhancing [this pneumonia based ai solution that I had prepared.](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/blob/master/README.md).
+I call on the [Ministry of Health](https://www.moh.gov.jm/) to utilize its administrative status to acquire more covid19 positive CT scan images (in federated format that excludes patient identity), from China, for the purpose of further enhancing [this pneumonia based ai solution that I had prepared.](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/blob/master/README.md).
   * Alternatively, the Chinese artificial intelligence algorithm/solution together with the data could be attained using the same administrative method.
 
 
