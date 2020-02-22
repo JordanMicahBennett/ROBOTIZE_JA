@@ -74,7 +74,7 @@ Let's talk about how Ai can benefit/enhance your institution's pipeline. Contact
 * **Feb 20, 2020**: Great news - Feb 20 news report published, that Chinese are using Ai to help identify the virus with reported ~99% accuracy, [via their own Ai based CT-scan method](http://www.sixthtone.com/news/1005216/scan-reading-ai-systems-are-helping-doctors-diagnose-covid-19). 
   * Unfortunately, unlike [this repository started by myself on Feb 9th](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/), no Chinese publication of ai based algorithms seems to have been made to the public to help facilitate global control of covid19/SarsCov2.
 
-#COVID-19 AI DATA/CALL ON THE MINISTRY OF HEALTH 
+# COVID-19 AI DATA/CALL ON THE MINISTRY OF HEALTH 
 
 I call on the [Ministry of Health](https://www.moh.gov.jm/) to utilize its administrative status to acquire more covid19 positive CT scan images, via China, for the purpose of further enhancing [this pneumonia based ai solution that I had prepared.](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/blob/master/README.md).
   * Alternatively, the Chinese artificial intelligence algorithm/solution together with the data could be attained using the same administrative method.
