@@ -85,7 +85,8 @@ I call on the [Ministry of Health of Jamaica](https://www.moh.gov.jm/) (as well 
   * One reason why China should reasonably release their code and data, is because their trained algorithm and data, while providing good basis, may also be [susceptible to race based computation issues](https://time.com/5520558/artificial-intelligence-racial-gender-bias/), simply due to the reality that most Covid19 patient/data are those of Chinese/race. 
       * My showcasing of this repository's code, and or my suggested publication of China's ai code may enable further training on data pertaining to race distributions of the target nation where Covid19 screening is applicable/required, [as seen in other work that stresses accounts for diversity.](https://www.cs.cornell.edu/information/news/newsitem10371/rediet-abebes-contributions-correct-ais-diversity-problem-highlighted).
   * In future scenarios, a "Division of Artificial Intelligence Based Health Development" or sector of artificial intelligence based research should reasonably exist in the Ministry of Health, that could enable Ai solutions to be rapidly researched/developed, to facilitate production of vaccines, and treatment, as seen in a recent example where [MIT developed antibiotics based on Ai research/development](https://www.iflscience.com/health-and-medicine/artificial-intelligence-finds-a-powerful-new-antibiotic-for-the-first-time/).
-
+  
+My advice to Ministry of Health: https://drive.google.com/file/d/19mX7kVTEgu1BsyRtEosVtZlcR_AS7JPe/view?usp=sharing
 
 # UPDATES - RE: MY FACE TO FACE ADVICE TO UWI MONA AI LECTURER TO INTRODUCE MODERN AI TO COURSEWORK
 * 2016: In a face to face talk, I had advised UWI Mona Ai lecturer to introduce neural networks/modern artificial intelligence as an independent course to the Computer Science degree.
