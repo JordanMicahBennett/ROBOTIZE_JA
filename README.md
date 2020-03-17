@@ -70,8 +70,8 @@ Let's talk about how Ai can benefit/enhance your institution's pipeline. Contact
 
 # 1. [AN ARITIFICAL INTELLIGENCE BASED CORONAVIRUS/COVID19 SOLUTION PREPARED FOR PUBLIC USE BY JORDAN BENNETT](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/blob/master/README.md)
 
-Note: I am working with Andrei Marinescu to deliver Covid19 detection. 
-* This story is now posted in [Libertatea News](https://www.facebook.com/mvandrei/posts/3257294227631302).
+* Note: I am working with Andrei Marinescu to deliver Covid19 detection. 
+  * This story is now posted in [Libertatea News](https://www.facebook.com/mvandrei/posts/3257294227631302).
 
 
 * **Feb 9, 2020**: I discover similarities between Covid19 and known forms of pneumonia, after which I find a few CT-Images representing positive cases of Covid19 by Chinese authorities, where I decided to perform **_artificial intelligence based_** **CT Image Scan diagnostics**, by using the images as inputs to an artificial intelligence based pneumonia diagnosis method [originally published/made by John Chang in November 2019](https://github.com/JohnChangUK/Pneumonia-Kaggle). This reasoning is seen in my research/discovery process in the [Deep Learning Code section on the repository.](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR#deep-learning-codetests--code-discussion--call-for-contribution).
