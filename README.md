@@ -69,6 +69,11 @@ Let's talk about how Ai can benefit/enhance your institution's pipeline. Contact
 # LIST OF AIDED INSTITUTIONS 
 
 # 1. [AN ARITIFICAL INTELLIGENCE BASED CORONAVIRUS/COVID19 SOLUTION PREPARED FOR PUBLIC USE BY JORDAN BENNETT](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/blob/master/README.md)
+
+Note: I am working with Andrei Marinescu to deliver Covid19 detection. 
+* This story is now posted in [Libertatea News](https://www.facebook.com/mvandrei/posts/3257294227631302).
+
+
 * **Feb 9, 2020**: I discover similarities between Covid19 and known forms of pneumonia, after which I find a few CT-Images representing positive cases of Covid19 by Chinese authorities, where I decided to perform **_artificial intelligence based_** **CT Image Scan diagnostics**, by using the images as inputs to an artificial intelligence based pneumonia diagnosis method [originally published/made by John Chang in November 2019](https://github.com/JohnChangUK/Pneumonia-Kaggle). This reasoning is seen in my research/discovery process in the [Deep Learning Code section on the repository.](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR#deep-learning-codetests--code-discussion--call-for-contribution).
 * **Feb 19, 2020**: Scientists reveal a ~98% accuracy in **_human/radiology based_** **CT Scan image based diagnostics**, compared to the popular Dna polymerase chain reaction method by CDC: ["In a series of 51 patients with chest CT and RT-PCR assay performed within 3 days, the sensitivity of CT for COVID-19 infection was ~98% compared to RT-PCR sensitivity of ~71% (p<.001)."](https://pubs.rsna.org/doi/10.1148/radiol.2020200432)
 * **Feb 20, 2020**: Great news - Feb 20 news report published, that Chinese are using Ai to help identify the virus with reported ~99% accuracy, [via their own Ai based CT-scan method](http://www.sixthtone.com/news/1005216/scan-reading-ai-systems-are-helping-doctors-diagnose-covid-19). 
@@ -77,6 +82,8 @@ Let's talk about how Ai can benefit/enhance your institution's pipeline. Contact
   * [I still call to have code/data released for enhanced covid19 spread control](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/blob/master/README.md#covid-19-ai-datacall-on-the-ministry-of-health).
   * One reason why China should reasonably release their code and data, is because their trained algorithm and data, while providing good basis, may also be [susceptible to race based computation issues](https://time.com/5520558/artificial-intelligence-racial-gender-bias/), simply due to the reality that most Covid19 patient/data are those of Chinese/race. 
       * My showcasing of this repository's code, and or my suggested publication of China's ai code may enable further training on data pertaining to race distributions of the target nation where Covid19 screening is applicable/required, [as seen in other work that stresses accounts for diversity.](https://www.cs.cornell.edu/information/news/newsitem10371/rediet-abebes-contributions-correct-ais-diversity-problem-highlighted).
+
+
 
 # COVID-19 AI DATA/CALL ON THE MINISTRY OF HEALTH 
 
