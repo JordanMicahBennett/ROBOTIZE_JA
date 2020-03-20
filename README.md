@@ -68,7 +68,7 @@ Let's talk about how Ai can benefit/enhance your institution's pipeline. Contact
 
 # LIST OF AIDED INSTITUTIONS 
 
-# 1. [The first known global attempt/publication of image/Artificial Intelligence based nCov/Covid19 diagnosis code --- AN ARITIFICAL INTELLIGENCE BASED CORONAVIRUS/COVID19 SOLUTION PREPARED FOR PUBLIC USE BY JORDAN BENNETT](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/blob/master/README.md)
+# 1. [The first known global attempt/publication of image analysis/Artificial Intelligence based nCov/Covid19 diagnosis code --- AN ARITIFICAL INTELLIGENCE BASED CORONAVIRUS/COVID19 SOLUTION PREPARED FOR PUBLIC USE BY JORDAN BENNETT](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/blob/master/README.md)
 
 * Note: I am working with Andrei Marinescu to deliver Covid19 detection. 
   * This story is now posted in [Libertatea News](https://www.facebook.com/mvandrei/posts/3257294227631302).
