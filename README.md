@@ -40,6 +40,7 @@ If need be, please see article 1/week 1 of my Gleaner column, for a reasonably c
         * [Artificial Neural Networks for kids - Amazon book](https://www.amazon.com/Artificial-Neural-Networks-Kids-intuitive-ebook/dp/B077FX57ZZ) ..which is [free on ResearchGate](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids)
         * [Supersymmetric Artificial Neural Network - This is Machine Learning Theory](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network)
         * [Fundamental neural network programming practice](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE) 
+	* [World's first Covid19 Artificial Intelligence Lung XRay Automated Open Source Diagnosis Tool](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/blob/master/README.md)
         
 * Somewhat inexpensive laptops (bought using my personal finances) will be left on the premises of the institutions for their usage (for running "trained" ai models), while I will use my somewhat expensive desktop to "train" said Ai models where applicable.
 
